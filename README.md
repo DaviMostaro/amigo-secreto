@@ -53,6 +53,8 @@ yarn dev
 
 http://localhost:3000
 
+(O backend roda no http://localhost:3001)
+
 
 ## ✅ Funcionalidades
 - [x] Funcionalidade 1 – Lógica de sorteio de um amigo secreto com agrupamento ou sem.
