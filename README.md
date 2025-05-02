@@ -1,3 +1,5 @@
+![Demonstração](https://raw.githubusercontent.com/DaviMostaro/gif-assets/main/amigo.gif)
+
 # Amigo Secreto
 Aplicação web para criar, gerenciar e realizar o sorteio de um amigo secreto.
 
