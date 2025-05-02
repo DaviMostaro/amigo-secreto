@@ -1,6 +1,6 @@
 <h3>🎥 Demonstração</h3>
 
-<video src="/amigo.mp4" controls width="600">
+<video src="amigo.mp4" controls width="600">
   Seu navegador não suporta vídeo.
 </video>
 
@@ -58,13 +58,12 @@ http://localhost:3000
 
 
 ## ✅ Funcionalidades
-- [x] <Funcionalidade 1 – Lógica de sorteio de um amigo secreto com agrupamento ou sem.
-- [x] <Funcionalidade 2 – Criação. edição e exclusão de eventos.
-- [x] <Funcionalidade 3 - Manipulação de banco de dados com Prisma 
-- [ ] <Funcionalidade futura – Ex: Modo escuro>
+- [x] Funcionalidade 1 – Lógica de sorteio de um amigo secreto com agrupamento ou sem.
+- [x] Funcionalidade 2 – Criação. edição e exclusão de eventos.
+- [x] Funcionalidade 3 - Manipulação de banco de dados com Prisma 
 
 ## 👨‍💻 Autor
-Feito com 💙 por DaviMostaro(https://github.com/DaviMostaro)  
+Feito com 💙 por [DaviMostaro](https://github.com/DaviMostaro)  
 Entre em contato:
 - LinkedIn: https://www.linkedin.com/in/davi-mostaro-05a569361/
 - Portfólio: Em breve...
