@@ -49,7 +49,7 @@ http://localhost:3000
 
 ## ✅ Funcionalidades
 - [x] Funcionalidade 1 – Lógica de sorteio de um amigo secreto com agrupamento ou sem.
-- [x] Funcionalidade 2 – Criação. edição e exclusão de eventos.
+- [x] Funcionalidade 2 – Criação, edição e exclusão de eventos.
 - [x] Funcionalidade 3 - Manipulação de banco de dados com Prisma 
 
 ## 👨‍💻 Autor
