@@ -8,6 +8,7 @@ Aplicação web para criar, gerenciar e realizar o sorteio de um amigo secreto.
 - ReactJs
 - NodeJs
 - Prisma
+- TailwindCSS
 
 ## 📦 Pré-requisitos
 Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas:
