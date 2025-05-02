@@ -24,7 +24,7 @@ git clone https://github.com/DaviMostaro/amigo-secreto.git
 
 2. Entre na pasta do projeto:
 bash
-cd <nome-do-repositorio>
+cd amigo-secreto
 
 
 3. Instale as dependências:
@@ -33,23 +33,14 @@ npm install
 # ou
 yarn install
 
-
-4. Configure as variáveis de ambiente:
-Crie um arquivo .env com base no arquivo .env.example:
-bash
-cp .env.example .env
-
-Preencha os valores conforme necessário.
-
-
-5. Execute o projeto:
+4. Execute o projeto:
 bash
 npm run dev
 # ou
 yarn dev
 
 
-6. Acesse no navegador:
+5. Acesse no navegador:
 
 http://localhost:3000
 
