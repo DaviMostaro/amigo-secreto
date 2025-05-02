@@ -1,3 +1,9 @@
+<h3>🎥 Demonstração</h3>
+
+<video src="/amigo.mp4" controls width="600">
+  Seu navegador não suporta vídeo.
+</video>
+
 # Amigo Secreto
 Aplicação web para criar, gerenciar e realizar o sorteio de um amigo secreto.
 
